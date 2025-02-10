@@ -64,11 +64,7 @@ kubectl get logquery error-logs -o yaml
 
 ## Note
 
-Weather this is practical to do or not, depend on the k8s cluster resources, the image is really big
-8GB
-tinyllama needs at minimal 3.85
-
----
+Weather this is practical to do or not, is sbujective, the LMM can be outside k8s cluster and communication is done via APIs call to the LLM, this is just prototype.
 
 ## License
 
