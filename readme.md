@@ -14,7 +14,7 @@ k8swhisperer is a Kubernetes operator that allows users to query pod logs using 
 
 ## Install
 
-1. **clone this repostiory**:
+1. **clone this repository**:
 
 ```bash
 git clone https://github.com/ARAldhafeeri/K8sWhisperer-
