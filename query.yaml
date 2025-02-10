@@ -1,0 +1,8 @@
+apiVersion: logquery.k8swhi.com/v1
+kind: LogQuery
+metadata:
+  namespace: default
+  name: error-logs
+spec:
+  podName: k8swhi
+  query: "summrize the logs"
